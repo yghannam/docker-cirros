@@ -1,4 +1,4 @@
 #!/bin/bash
-VERSION=0.3.0
-URL=https://launchpad.net/cirros/trunk/${VERSION}/+download/cirros-${VERSION}-x86_64-lxc.tar.gz
+VERSION=150923
+URL=http://download.cirros-cloud.net/daily/20${VERSION}/cirros-d${VERSION}-aarch64-lxc.tar.gz
 wget $URL
